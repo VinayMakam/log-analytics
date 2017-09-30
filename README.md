@@ -1,2 +1,0 @@
-# log-analytics
-# log-analytics
